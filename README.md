@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me
 - 😄 Pronouns: nothing
 - ⚡ Fun fact: ...
+- What I was looking for with this repository is to learn more and have some knowledge in life
 -->
